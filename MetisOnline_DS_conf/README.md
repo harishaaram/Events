@@ -1,4 +1,6 @@
-# Metis DemystifyDS conf - 27 Sept 2017
+# [Metis DemystifyDS conf - 27 Sept 2017](http://www.thisismetis.com/demystifying-data-science)
+Date: Sep 27, 2017
+location: Chicago
 
 ## Talk 10 am:
 *Getting a Data Science Job is Not About Stacking up Prerequisites and Hoping Somebody Picks You*

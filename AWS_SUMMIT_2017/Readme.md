@@ -1,5 +1,7 @@
-# AWS SUMMIT 2017
+# [AWS SUMMIT 2017](https://aws.amazon.com/summits/chicago/)
 
+Date: July 26-27, 2017
+location: Chicago
 
 ## Scaling Up to Your First 10 Million Users
 *by paul underwood*

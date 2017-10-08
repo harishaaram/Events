@@ -1,4 +1,6 @@
-# Escape Conference
+# [Escape Conference](http://the-escape.org/)
+Date: May 6th, 2017
+location: Chicago
 
 keynote:
 *compnay: kohl*
